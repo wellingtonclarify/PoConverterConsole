@@ -1,0 +1,14 @@
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\bin\Debug\netcoreapp3.1\PoConverterConsole.exe
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\bin\Debug\netcoreapp3.1\PoConverterConsole.deps.json
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\bin\Debug\netcoreapp3.1\PoConverterConsole.runtimeconfig.json
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\bin\Debug\netcoreapp3.1\PoConverterConsole.runtimeconfig.dev.json
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\bin\Debug\netcoreapp3.1\PoConverterConsole.dll
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\bin\Debug\netcoreapp3.1\PoConverterConsole.pdb
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\bin\Debug\netcoreapp3.1\IronXL.dll
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\obj\Debug\netcoreapp3.1\PoConverterConsole.csprojAssemblyReference.cache
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\obj\Debug\netcoreapp3.1\PoConverterConsole.AssemblyInfoInputs.cache
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\obj\Debug\netcoreapp3.1\PoConverterConsole.AssemblyInfo.cs
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\obj\Debug\netcoreapp3.1\PoConverterConsole.csproj.CopyComplete
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\obj\Debug\netcoreapp3.1\PoConverterConsole.dll
+C:\Users\Wellington\Documents\GitHub\PoConverterConsole\obj\Debug\netcoreapp3.1\PoConverterConsole.pdb

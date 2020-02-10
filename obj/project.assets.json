@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IronXL.Excel/2019.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/IronXL.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/IronXL.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IronXL.Excel/2019.5.2": {
+      "sha512": "hKZD4w84+rAQnbyjIQE1csqWTLW1oI40eXX6LItewg5PeGIrD70/dsT3WMAqCrrsQ0AQrXhbjZD7Za0MbKuD6Q==",
+      "type": "package",
+      "path": "ironxl.excel/2019.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ironxl.excel.2019.5.2.nupkg.sha512",
+        "ironxl.excel.nuspec",
+        "lib/net45/IronXL.dll",
+        "lib/net45/IronXL.xml",
+        "lib/netstandard2.0/IronXL.dll",
+        "lib/netstandard2.0/IronXL.xml",
+        "readme.txt"
+      ]
+    },
+    "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+      "sha512": "DfceS96ustwfL8EOJNNRtpk6b0RylhjNpgeeemuvi9X4GYks2UTeAimjSrdFEfuqRo5ibZ4Sd0gJIeDr9gMa6Q==",
+      "type": "package",
+      "path": "microsoft.office.interop.excel/15.0.4795.1000",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512",
+        "microsoft.office.interop.excel.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "IronXL.Excel >= 2019.5.2",
+      "Microsoft.Office.Interop.Excel >= 15.0.4795.1000"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Wellington\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Wellington\\Documents\\GitHub\\PoConverterConsole\\PoConverterConsole.csproj",
+      "projectName": "PoConverterConsole",
+      "projectPath": "C:\\Users\\Wellington\\Documents\\GitHub\\PoConverterConsole\\PoConverterConsole.csproj",
+      "packagesPath": "C:\\Users\\Wellington\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wellington\\Documents\\GitHub\\PoConverterConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Wellington\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "IronXL.Excel": {
+            "target": "Package",
+            "version": "[2019.5.2, )"
+          },
+          "Microsoft.Office.Interop.Excel": {
+            "target": "Package",
+            "version": "[15.0.4795.1000, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.Office.Interop.Excel 15.0.4795.1000' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.Office.Interop.Excel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

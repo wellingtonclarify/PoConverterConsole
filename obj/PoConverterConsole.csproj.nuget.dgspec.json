@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Wellington\\Documents\\GitHub\\PoConverterConsole\\PoConverterConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Wellington\\Documents\\GitHub\\PoConverterConsole\\PoConverterConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wellington\\Documents\\GitHub\\PoConverterConsole\\PoConverterConsole.csproj",
+        "projectName": "PoConverterConsole",
+        "projectPath": "C:\\Users\\Wellington\\Documents\\GitHub\\PoConverterConsole\\PoConverterConsole.csproj",
+        "packagesPath": "C:\\Users\\Wellington\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wellington\\Documents\\GitHub\\PoConverterConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wellington\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2019.5.2, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
