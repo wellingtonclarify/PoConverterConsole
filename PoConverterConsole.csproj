@@ -4,7 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1000"/>
-    <PackageReference Include="IronXL.Excel" Version="2019.5.2"/>
+    <PackageReference Include="IronXL.Excel" Version="2019.5.2" />
   </ItemGroup>
 </Project>
